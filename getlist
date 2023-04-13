@@ -1,23 +1,17 @@
 [
   {
-    "id": 1,
-    "p1": "a",
-    "p2": "b",
-    "p3": "c",
-    "p4": "d"
+    "catId": 1;
+    "name": "haha hater quá ba hoa";
+    "image": 1.png;
   },
   {
-    "id": 2,
-    "p1": "d",
-    "p2": "e",
-    "p3": "f",
-    "p4": "g"
+    "catId": 1;
+    "name":"Tao đang ngủ trong phòng thu ";
+    "image": "2.png";
   },
   {
-    "id": 3,
-    "p1": "h",
-    "p2": "j",
-    "p3": "k",
-    "p4": "l"
+    "catId": 3;
+    "name": "Đừng có phá tao nha";
+    "image": "3.png";
   }
 ]
