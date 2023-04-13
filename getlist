@@ -1,17 +1,17 @@
 [
   {
-    "catId": 1;
-    "name": "haha hater quá ba hoa";
-    "image": 1.png;
+    "catId": 1,
+    "name": "haha hater quá ba hoa",
+    "image": 1.png
   },
   {
-    "catId": 1;
-    "name":"Tao đang ngủ trong phòng thu ";
-    "image": "2.png";
+    "catId": 1,
+    "name":"Tao đang ngủ trong phòng thu ",
+    "image": "2.png"
   },
   {
-    "catId": 3;
-    "name": "Đừng có phá tao nha";
-    "image": "3.png";
+    "catId": 3,
+    "name": "Đừng có phá tao nha",
+    "image": "3.png"
   }
 ]
