@@ -2,11 +2,11 @@
   {
     "catId": 1,
     "name": "haha hater quá ba hoa",
-    "image": 1.png
+    "image": "1.png"
   },
   {
-    "catId": 1,
-    "name":"Tao đang ngủ trong phòng thu ",
+    "catId": 2,
+    "name": "Tao đang ngủ trong phòng thu ",
     "image": "2.png"
   },
   {
